@@ -17,7 +17,7 @@ import com.moneyforward.cbdcsandbox.compose.CBDCSandBoxApp
 import com.moneyforward.cbdcsandbox.ui.theme.CBDCSandboxTheme
 import dagger.hilt.android.AndroidEntryPoint
 
-//@AndroidEntryPoint
+@AndroidEntryPoint
 class MainActivity : ComponentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
