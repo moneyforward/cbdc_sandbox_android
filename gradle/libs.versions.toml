@@ -12,6 +12,7 @@ hilt = "2.52"
 hilt_androidx = "1.2.0"
 kotlin_version = "1.9.23"
 navigation_compose = "2.8.4"
+timber = "5.0.1"
 
 [libraries]
 # Core AndroidX libraries
@@ -31,6 +32,9 @@ androidx-material3 = { group = "androidx.compose.material3", name = "material3" 
 
 # Navigation Compose
 androidx-navgation-compose = { group = "androidx.navigation", name = "navigation-compose", version.ref = "navigation_compose" }
+
+# Timber
+timber = { group = "com.jakewharton.timber", name = "timber", version.ref = "timber"}
 
 # Testing libraries
 junit = { group = "junit", name = "junit", version.ref = "junit" }

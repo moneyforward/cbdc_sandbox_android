@@ -66,4 +66,7 @@ dependencies {
 
     // Navigation
     implementation(libs.androidx.navgation.compose)
+
+    // Log
+    implementation(libs.timber)
 }
