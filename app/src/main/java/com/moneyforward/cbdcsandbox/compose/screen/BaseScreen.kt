@@ -1,4 +1,4 @@
-package com.moneyforward.cbdcsandbox.ui.screen
+package com.moneyforward.cbdcsandbox.compose.screen
 
 import androidx.navigation.NamedNavArgument
 

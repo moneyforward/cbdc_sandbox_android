@@ -1,4 +1,4 @@
-package com.moneyforward.cbdcsandbox.ui.common
+package com.moneyforward.cbdcsandbox.compose.common
 
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme

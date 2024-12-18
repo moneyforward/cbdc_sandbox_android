@@ -5,8 +5,8 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.moneyforward.cbdcsandbox.ui.screen.CardReader
-import com.moneyforward.cbdcsandbox.ui.screen.PasswordInput
+import com.moneyforward.cbdcsandbox.compose.screen.CardReader
+import com.moneyforward.cbdcsandbox.compose.screen.PasswordInput
 
 @Composable
 fun CBDCSandBoxApp() {
